@@ -1,0 +1,11 @@
+Iteration 1 :
+-
+Iteration 2 :
+- guava library replacing :
+    1. List<List<Item>>
+    2. Iterations
+- Noise reduction using guava and some techniques
+- How about groovy
+- Instance_geometry should return a cGeometry instance and so should others.
+- change "getSourceInstance" to "getSource" and some others as well.
+- implement "accessor"
