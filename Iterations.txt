@@ -1,0 +1,7 @@
+Iteration 1 :
+-
+Iteration 2 :
+- guava library replacing :
+    1. List<List<Item>>
+    2. Iterations
+- Noise reduction using guava and some techniques
