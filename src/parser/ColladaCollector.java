@@ -18,8 +18,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-import static parser.colladaComponents.utils.Collection.collectFloatArrays;
-import static parser.colladaComponents.utils.Collection.collectIntArrays;
+import static parser.colladaComponents.utils.Collections.collectFloatArrays;
+import static parser.colladaComponents.utils.Collections.collectIntArrays;
 
 /**
  * <p><code>init()</code> call to read and ready a .dae file. Then each library component can be read individually.</p>

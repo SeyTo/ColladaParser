@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Created by RaJU on 4/6/2016.
  */
-public class Collection {
+public class Collections {
 
     public static float[][] collectFloatArrays(String floatText, int xSize, int ySize) {
         float[][] arrays = new float[xSize][ySize];
@@ -83,7 +83,7 @@ public class Collection {
      * @param vcount the main interval from where the offset is counted
      * @return
      */
-    private static int[] getAtOffset(int[] indices, int offset, int vcount) {
+    public static int[] getAtOffset(int[] indices, int offset, int vcount) {
         offset += 1;
         int[] temp = new int[indices.length/vcount];
         for (int i = 0; i < temp.length; i++) {
