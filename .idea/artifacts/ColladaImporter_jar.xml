@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ColladaImporter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColladaImporter_jar</output-path>
+    <root id="archive" name="ColladaImporter_jar.jar">
+      <element id="module-output" name="ColladaImporter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../lwjgl and libs/jdom-2.0.6.jar" path-in-jar="/" />
+      <element id="library" level="project" name="google-collections-1.0-rc1" />
+    </root>
+  </artifact>
+</component>

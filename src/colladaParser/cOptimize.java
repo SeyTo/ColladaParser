@@ -1,13 +1,13 @@
 package colladaParser;
 
-import parser.colladaParser.colladaComponents.utils.Printer;
+import colladaParser.colladaComponents.utils.Printer;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by RaJU on 4/8/2016.
+ * Created by rj on 4/8/2016.
  */
 public class cOptimize {
 
