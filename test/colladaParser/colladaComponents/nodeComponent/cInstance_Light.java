@@ -1,10 +1,10 @@
 package colladaParser.colladaComponents.nodeComponent;
 
+import colladaParser.XMLCollector;
+import colladaParser.colladaComponents.cComponent;
+import colladaParser.colladaComponents.cLight;
 import org.jdom2.Element;
 import org.jdom2.Namespace;
-import parser.colladaParser.XMLCollector;
-import parser.colladaParser.colladaComponents.cComponent;
-import parser.colladaParser.colladaComponents.cLight;
 
 import java.util.List;
 
